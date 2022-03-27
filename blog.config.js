@@ -1,23 +1,23 @@
 const BLOG = {
-  title: 'Rush Duel',
-  author: '牌友俱乐部',
-  email: '',
-  link: 'https://rushduel2.vercel.app/',
-  description: '',
+  title: 'Go, Rush',
+  author: '鸭',
+  email: 'zmr679@gmail.com',
+  link: 'https://gorush.vercel.app/',
+  description: 'Go!',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
-  font: 'sans-serif', // ['sans-serif', 'serif']
+  appearance: 'dark', // ['light', 'dark', 'auto'],
+  font: 'serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   postsPerPage: 16,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: '', // The link to generate OG image, don't end with a slash
-  socialLink: '',
+  socialLink: 'https://weibo.com/u/7226134505',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
